@@ -7,6 +7,7 @@ function name(params) {
         git pull origin main
         git commit -am "mensaje"
         git push origin main
+        otra modificacion
     */
     
     
